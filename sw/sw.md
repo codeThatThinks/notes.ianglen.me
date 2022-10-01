@@ -1,7 +1,7 @@
 ---
 title: Software Engineering
 permalink: /sw
-navorder: 6
+nav_order: 6
 has_children: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-navorder: 1
+nav_order: 1
 ---
 
 # Notes

@@ -1,7 +1,7 @@
 ---
 title: Math
 permalink: /math
-navorder: 3
+nav_order: 3
 has_children: true
 ---
 

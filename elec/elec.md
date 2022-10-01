@@ -1,7 +1,7 @@
 ---
 title: Electrical Engineering
 permalink: /elec
-navorder: 4
+nav_order: 4
 has_children: true
 ---
 
