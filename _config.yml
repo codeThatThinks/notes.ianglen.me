@@ -1,4 +1,10 @@
 title: Notes
 description: My collection of notes.
+baseurl: "/"
+url: "https://notes.ianglen.me"
 
 remote_theme: just-the-docs/just-the-docs
+
+aux_links:
+  "ianglen.me":
+    - "//ianglen.me"
